@@ -9,7 +9,7 @@ sphinx:
 formats:
   - pdf
   - epub  
-  - html
+  - htmlzip
 python:
   # Install our python package before building the docs
   install:
